@@ -16,10 +16,17 @@ Manage Task : Change the task : Change status : Delete the task
 Delete User
 
 To run the project in terminal:
+
 .Open Command prompt
+
 . Open frontend folder using command cd frontend
+
 . npm run dev
+
 . click on the link (ctrl+click)
+
 . Open new Command Prompt
+
 . Run cd server
+
 . npm start
