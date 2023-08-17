@@ -13,13 +13,13 @@ For demo purpose user can use 'admin@gmail.com' as email and '1234' as password
 
 User can perform the following operations:
 
-- Add new user : a unique User ID will be created autamatically
+* Add new user : a unique User ID will be created autamatically
 
-- Allocate task to particular user : a unique Task ID will be created 
+* Allocate task to particular user : a unique Task ID will be created 
 
-- autamatically : default status will be in the dashboard
+* autamatically : default status will be in the dashboard
 
-- Manage Task : Change the task : Change status : Delete the task Edit the task Change the salary
+* Manage Task : Change the task : Change status : Delete the task Edit the task Change the salary
 ```
 ## INSTALLATION
 Open cmd prompt
@@ -33,5 +33,8 @@ Open new Cmd prompt
 cd server
 npm start
 ```
+## LOGIN PAGE
+
+![image](https://github.com/Shristi-Raj/project_management/assets/96020715/7a6385ae-ecf9-4067-8a27-5d663eeb3012)
 
 
