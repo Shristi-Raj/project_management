@@ -37,4 +37,8 @@ npm start
 
 ![image](https://github.com/Shristi-Raj/project_management/assets/96020715/7a6385ae-ecf9-4067-8a27-5d663eeb3012)
 
+## DASHBOARD
+
+![image](https://github.com/Shristi-Raj/project_management/assets/96020715/30a466a0-3c8c-440e-bb7e-7d01a1073b8f)
+
 
