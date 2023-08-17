@@ -32,5 +32,5 @@ Open new Cmd prompt
 cd server
 npm start
 ```
-![image](https://github.com/Shristi-Raj/project_management/assets/96020715/c9af5af8-0f80-42f8-8ab2-f3a5fdf99003)
+
 
