@@ -22,13 +22,14 @@ User can perform the following operations:
 - Manage Task : Change the task : Change status : Delete the task Edit the task Change the salary
 ```
 ## INSTALLATION
-```BASH
 Open cmd prompt
-Open frontend folder
+```BASH
 cd frontend
 npm run dev
+```
 Click on the link (ctrl+click)
 Open new Cmd prompt
+```BASH
 cd server
 npm start
 ```
