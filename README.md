@@ -41,4 +41,13 @@ npm start
 
 ![image](https://github.com/Shristi-Raj/project_management/assets/96020715/30a466a0-3c8c-440e-bb7e-7d01a1073b8f)
 
+## MANAGE PROJECT
+
+![image](https://github.com/Shristi-Raj/project_management/assets/96020715/93680ac2-0aa6-47b7-850d-1e08154a5246)
+
+## EMPLOYEES PROJECT DETAIL
+
+![image](https://github.com/Shristi-Raj/project_management/assets/96020715/04c1c9ba-80f6-4263-af8e-bfa22734b5c1)
+
+
 
